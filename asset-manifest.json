@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.74c85fc3.css",
-    "main.js": "/static/js/main.5e9ca6e2.js",
+    "main.css": "/static/css/main.9d71efa0.css",
+    "main.js": "/static/js/main.fd940a56.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/netlify.png": "/static/media/netlify.7860a6b89795819c5db0.png",
     "static/media/profabout2.png": "/static/media/profabout2.59489f6e7d9a4f2a38fd.png",
@@ -14,6 +14,7 @@
     "static/media/chakraui.png": "/static/media/chakraui.e4cb472ccaabf22affba.png",
     "static/media/vscode.png": "/static/media/vscode.a61dc62c499ed3aeefdc.png",
     "static/media/mongodb.png": "/static/media/mongodb.2f81ed7ec1fd818da1b5.png",
+    "static/media/JaiRaj-Singh-Resume.pdf": "/static/media/JaiRaj-Singh-Resume.ca3fb65f99fe13b4b36d.pdf",
     "static/media/all.jpeg": "/static/media/all.0a8d55b612c807616e14.jpeg",
     "static/media/express.png": "/static/media/express.70b3b41c3aaf22cee3bb.png",
     "static/media/types.png": "/static/media/types.659e4b9351cf1baa6930.png",
@@ -28,12 +29,12 @@
     "static/media/vercel.webp": "/static/media/vercel.fd8d57455b356d352c25.webp",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.74c85fc3.css.map": "/static/css/main.74c85fc3.css.map",
-    "main.5e9ca6e2.js.map": "/static/js/main.5e9ca6e2.js.map",
+    "main.9d71efa0.css.map": "/static/css/main.9d71efa0.css.map",
+    "main.fd940a56.js.map": "/static/js/main.fd940a56.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74c85fc3.css",
-    "static/js/main.5e9ca6e2.js"
+    "static/css/main.9d71efa0.css",
+    "static/js/main.fd940a56.js"
   ]
 }
